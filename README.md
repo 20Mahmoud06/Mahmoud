@@ -6,8 +6,7 @@ _"Building apps that make life easier 🚀"_
 ## 🚀 About Me  
 🎓 Computer Science Student | Competitive Programmer (ICPC Community)  
 📱 Flutter Developer – Cross-Platform Mobile Applications (Android & iOS)  
-🔥 Passionate about Problem Solving & Clean Code  
-🌱 Currently exploring Firebase, REST APIs, and State Management  
+🔥 Passionate about Problem Solving & Clean Code
 
 ---
 
@@ -47,11 +46,6 @@ News browsing app with a real-world news API.
 ### 📝 Todoey To-Do App  
 To-Do app with Hive for offline storage and allows users to add, edit, and delete tasks easily.  
 [🔗 View Repository](https://github.com/20Mahmoud06/todoey)
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20Mahmoud06&show_icons=true&theme=radical)  
 
 ---
 
