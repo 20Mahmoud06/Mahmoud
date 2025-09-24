@@ -18,12 +18,15 @@ _"Building apps that make life easier 🚀"_
 ---
 
 ## 🛠 Tech Stack  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-api-coding-and-development-flat-flat-juicy-fish.png" alt="rest api" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ---
 
@@ -33,11 +36,10 @@ _"Building apps that make life easier 🚀"_
 Cross-platform store app with Firebase backend & brand-based filtering.  
 [🔗 View Repository](https://github.com/20Mahmoud06/Kutuku)
 
-
 ---
 
 ### 📰 News Now App  
-news browsing app with a real-world news API.  
+News browsing app with a real-world news API.  
 [🔗 View Repository](https://github.com/20Mahmoud06/news)
 
 ---
@@ -49,7 +51,7 @@ To-Do app with Hive for offline storage and allows users to add, edit, and delet
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAHMOUD&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20Mahmoud06&show_icons=true&theme=radical)  
 
 ---
 
