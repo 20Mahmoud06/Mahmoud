@@ -50,8 +50,6 @@ To-Do app with Hive for offline storage and allows users to add, edit, and delet
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAHMOUD&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHMOUD&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MAHMOUD&theme=radical)
 
 ---
 
