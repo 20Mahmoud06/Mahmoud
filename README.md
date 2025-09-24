@@ -12,8 +12,8 @@ _"Building apps that make life easier 🚀"_
 ---
 
 ## 📩 Connect with me  
-[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Safa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mahmoud%20Safa-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/20mahmoud-safa06/)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mahmoudsafa220@gmail.com)
 
 ---
 
