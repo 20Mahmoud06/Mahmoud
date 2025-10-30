@@ -31,6 +31,12 @@ _"Building apps that make life easier 🚀"_
 
 ## 📂 Featured Projects  
 
+### 👟 Flash Chat App  
+Real-Time messaging app with Firebase backend, smart contact sync, and a push notifications for instant communication.  
+[🔗 View Repository](https://github.com/20Mahmoud06/Flash-Chat)
+
+---
+
 ### 👟 Kutuku E-Commerce App  
 Cross-platform store app with Firebase backend & brand-based filtering.  
 [🔗 View Repository](https://github.com/20Mahmoud06/Kutuku)
